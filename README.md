@@ -24,6 +24,7 @@ Nuestro sistema clasifica a los clientes en tres niveles:
 El monitor desarrollado complementa esta clasificación proporcionando una vista Cliente 360°, incluyendo perfil comercial, factores de riesgo identificados por el modelo y estrategias de intervención recomendadas para apoyar la toma de decisiones del equipo comercial.
 
 ## 🚀 Cómo ejecutar el proyecto
-1. Clona este repositorio o descarga los notebooks.
-2. Descarga los datasets originales de Arca Continental y colócalos en una carpeta llamada `data/`.
-3. Ejecuta primero `1_EDA.ipynb` para ver los hallazgos y luego `2_Modelado_y_Scoring.ipynb` para generar las predicciones.
+1. Ingresa al siguiente link y descarga los archivos .csv: https://drive.google.com/drive/folders/1iVC0aG5SAzDBc6BT9zTnFbJFhdd7g9hO?usp=sharing
+2. Clona este repositorio o descarga los notebooks.
+3. Descarga los datasets originales de Arca Continental y colócalos en una carpeta llamada `data/`.
+4. Ejecuta primero `1_EDA.ipynb` para ver los hallazgos y luego `2_Modelado_y_Scoring.ipynb` para generar las predicciones.
