@@ -1,0 +1,17 @@
+# Ignorar carpetas de datos pesados (¡Vital para el Hackathon!)
+data/
+*.csv
+
+# Ignorar archivos temporales de Jupyter Notebooks y Google Colab
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar carpetas de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
