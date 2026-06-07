@@ -19,4 +19,4 @@ Nuestro sistema clasifica a los clientes en tres niveles:
 ## 🚀 Cómo ejecutar el proyecto
 1. Clona este repositorio o descarga los notebooks.
 2. Descarga los datasets originales de Arca Continental y colócalos en una carpeta llamada `data/`.
-3. Ejecuta primero `1_EDA_y_Visualizacion.ipynb` para ver los hallazgos y luego `2_Modelado_y_Scoring.ipynb` para generar las predicciones.
+3. Ejecuta primero `1_EDA.ipynb` para ver los hallazgos y luego `2_Modelado_y_Scoring.ipynb` para generar las predicciones.
