@@ -1,5 +1,6 @@
 # Churn Hunters - Solución de Analítica Avanzada para Arca Continental 🚀
-Repositorio original del equipo "Las Tortugas Hackatecas"
+Repositorio original del equipo "Las Tortugas Hackatecas".
+
 Integrantes: Jannette Flores, Bianca Cordero, Sofía Sacoto y Dulce Sánchez
 
 ## 📋 Descripción del Proyecto
